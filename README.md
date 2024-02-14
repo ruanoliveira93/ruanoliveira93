@@ -3,7 +3,7 @@ Desenvolvedor Front-End e apaixonado por artes gráficas e visuais.<br>
 Atualmente desenvolvedor front-end junior, já trabalhei com suporte<br> técnico de redes, 
 administração, produção e mais.
 
-🛠️ *HTML*, *CSS*, *JavaScript*, *React.js*
+📌 *HTML*, *CSS*, *JavaScript*, *React.js*
 
 - 💻 **Developer** Front-End Junior
 - 👨‍💻 Apaixonado por tecnologias e computação gráfica
@@ -16,6 +16,7 @@ administração, produção e mais.
     <img width='40px auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   </div>
 ______________________________________________________________________________________<br>
+
 Você também me encontra em:
 
 <div class='redes'>
