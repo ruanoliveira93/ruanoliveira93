@@ -10,14 +10,14 @@ administração, produção e mais.
 - 🎯 Atualmente focado em:
 
   <div>
-    <img width='40px auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />      
-    <img width='40px auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img width='40px auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img width='40px auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img width='40px auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;      
+    &nbsp;<img width='40px auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
+    &nbsp;<img width='40px auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
+    &nbsp;<img width='40px auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   </div>
 ______________________________________________________________________________________<br>
 
-Você também me encontra em:
+&nbsp;Você também me encontra em:
 
 <div class='redes'>
 &nbsp;<a href="https://www.instagram.com/ruanw93"><img class='imgig' width='80px' height='30px' src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;
@@ -25,9 +25,9 @@ Você também me encontra em:
 &nbsp;<a href="https://www.linkedin.com/in/ruanwesley93/"><img class="imglk" width='80px' height='30px' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 </div><br>
 
-<spa class='texto01'>E pode aproveitar para ver alguns de meus projetos:</span>
+&nbsp;E pode aproveitar para ver alguns de meus projetos:
 
 <ul>
-<li><a class='link01' href='https://controlelistatarefas.netlify.app/'>Controle de lista de tarefas - Aplicação para Web</a></li>
-<li><a class='link02' href='#'><del>Projeto Starbucks</del> - Em manutenção</a></li>
+<li><a href='https://controlelistatarefas.netlify.app/'>Controle de lista de tarefas - Aplicação para Web</a></li>
+<li><a href='#'><del>Projeto Starbucks</del> - Em manutenção</a></li>
 </ul>
