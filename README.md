@@ -15,7 +15,7 @@ administração, produção e mais.
     <img width='40px auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
     <img width='40px auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   </div>
-______________________________________________________________________________________
+______________________________________________________________________________________<br>
 Você também me encontra em:
 
 <div class='redes'>
