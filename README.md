@@ -24,10 +24,3 @@ ________________________________________________________________________________
 &nbsp;<a href="https://www.facebook.com/ruan.wesley"><img class='imgfc' width='80px' height='30px' src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;
 &nbsp;<a href="https://www.linkedin.com/in/ruanwesley93/"><img class="imglk" width='80px' height='30px' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
 </div><br>
-
-&nbsp;E pode aproveitar para ver alguns de meus projetos:
-
-<ul>
-<li><a href='https://controlelistatarefas.netlify.app/'>Controle de lista de tarefas - Aplicação para Web</a></li>
-<li><a href='#'><del>Projeto Starbucks</del> - Em manutenção</a></li>
-</ul>
