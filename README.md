@@ -1,7 +1,7 @@
-### Oi, meu nome é Ruan
+### Olá. Seja bem-vindo ao meu GIthub!
 Desenvolvedor Front-End e apaixonado por artes gráficas e visuais.<br>
 Atualmente desenvolvedor front-end junior, já trabalhei com suporte<br> técnico de redes, 
-administração, produção e mais.
+administração, produção e muito mais.
 
 📌 *HTML*, *CSS*, *JavaScript*, *React.js*
 
