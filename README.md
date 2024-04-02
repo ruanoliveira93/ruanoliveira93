@@ -1,4 +1,4 @@
-### Olá. Seja bem-vindo ao meu GIthub!
+### Olá. Seja bem-vindo(a) ao meu GIthub!
 Desenvolvedor Front-End e apaixonado por artes gráficas e visuais.<br>
 Atualmente desenvolvedor front-end junior, já trabalhei com suporte<br> técnico de redes, 
 administração, produção e muito mais.
