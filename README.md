@@ -1,26 +1,25 @@
-### Olá. Seja bem-vindo(a) ao meu GIthub!
-Desenvolvedor Front-End e apaixonado por artes gráficas e visuais.<br>
-Atualmente desenvolvedor front-end junior, já trabalhei com suporte<br> técnico de redes, 
-administração, produção e muito mais.
+## Olá. Seja bem-vindo(a) ao meu perfil Github! 😁
 
-📌 *HTML*, *CSS*, *JavaScript*, *React.js*
-
-- 💻 **Developer** Front-End Junior
-- 👨‍💻 Apaixonado por tecnologias e computação gráfica
-- 🎯 Atualmente focado em:
-
-  <div>
-    <img width='40px auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;      
-    &nbsp;<img width='40px auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
-    &nbsp;<img width='40px auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
-    &nbsp;<img width='40px auto' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  </div>
-______________________________________________________________________________________<br>
-
-&nbsp;Você também me encontra em:
-
-<div class='redes'>
-&nbsp;<a href="https://www.instagram.com/ruanw93"><img class='imgig' width='80px' height='30px' src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;
-&nbsp;<a href="https://www.facebook.com/ruan.wesley"><img class='imgfc' width='80px' height='30px' src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;
-&nbsp;<a href="https://www.linkedin.com/in/ruanwesley93/"><img class="imglk" width='80px' height='30px' src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
-</div><br>
+ <div>
+   <a href="https://github.com/ruanoliveira93"></a>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanoliveira93&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanoliveira93&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+</div>
+ 
+<br>
+ 
+### Segue os links abaixo para me encontrar nas redes sociais: 
+ 
+<div> 
+  <a href="https://www.instagram.com/ruanw93" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://www.discord.com/channels/@ruanoliveira93" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.facebook.com/ruan.wesley" target="_blank"><img width='120px' height='28px' src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ruanwesley93/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
