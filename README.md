@@ -12,7 +12,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 </div>
- <img src="https://w7.pngwing.com/pngs/700/988/png-transparent-chinese-dragon-illustration-chinese-dragon-totem-black-dragon-illustration-dragon-chinese-style-cloud.png" alt="" />
+ <img src="[https://w7.pngwing.com/pngs/700/988/png-transparent-chinese-dragon-illustration-chinese-dragon-totem-black-dragon-illustration-dragon-chinese-style-cloud.png](https://png.pngtree.com/png-vector/20230729/ourlarge/pngtree-chinese-dragon-red-paper-cut-window-grilles-png-image_9116888.png)" alt="" />
 ### Segue os links abaixo para me encontrar nas redes sociais: 
  
 <div> 
