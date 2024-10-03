@@ -12,7 +12,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 </div>
- <img src="https://cdn.imgbin.com/0/1/24/imgbin-sword-of-the-berserk-guts-rage-griffith-anime-anime-L7EhZDuJ3zHpKWPMENCujpEb2.jpg" alt="" />
+ <img src="https://picfiles.alphacoders.com/401/401894.png" alt="" />
 ### Segue os links abaixo para me encontrar nas redes sociais: 
  
 <div> 
