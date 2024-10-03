@@ -12,7 +12,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 </div><br>
- <img src="https://w7.pngwing.com/pngs/98/694/png-transparent-guts-griffith-berserk-casca-manga-manga-manga-monochrome-cartoon-thumbnail.png" alt="" />
+ <img src="https://e7.pngegg.com/pngimages/337/177/png-clipart-guts-berserk-vol-1-manga-book-manga-comics-comic-book.png" alt="" />
 ### Segue os links abaixo para me encontrar nas redes sociais: 
  
 <div> 
