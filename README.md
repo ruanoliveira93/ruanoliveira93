@@ -12,7 +12,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
 </div>
- <img src="[[https://w7.pngwing.com/pngs/700/988/png-transparent-chinese-dragon-illustration-chinese-dragon-totem-black-dragon-illustration-dragon-chinese-style-cloud.png](https://png.pngtree.com/png-vector/20230729/ourlarge/pngtree-chinese-dragon-red-paper-cut-window-grilles-png-image_9116888.png)](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/4be04656-9674-47db-a5a8-dec79e9d079e/dembcpw-7b850721-3781-474b-bb98-0e7bc1e574c6.jpg/v1/fill/w_892,h_895,q_70,strp/berserk_mark_of_the_eclipse___t_shirt_design_by_damyanoman_dembcpw-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTUwOSIsInBhdGgiOiJcL2ZcLzRiZTA0NjU2LTk2NzQtNDdkYi1hNWE4LWRlYzc5ZTlkMDc5ZVwvZGVtYmNwdy03Yjg1MDcyMS0zNzgxLTQ3NGItYmI5OC0wZTdiYzFlNTc0YzYuanBnIiwid2lkdGgiOiI8PTU0OTAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.bIkhhWf1mxqajge98fi4MNnUryOtOmdm7v7S7ZO_m4w)" alt="" />
+ <img src="https://i.pinimg.com/736x/3c/49/e2/3c49e2c90f5d3f98874ccd4be5677177.jpg" alt="" />
 ### Segue os links abaixo para me encontrar nas redes sociais: 
  
 <div> 
